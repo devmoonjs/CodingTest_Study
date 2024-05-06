@@ -7,7 +7,7 @@
 ### 1주차
 - 스택 / 큐
   - 백준 10828. 스택
-    > 풀이 : https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-10828-%EC%8A%A4%ED%83%9D
+    > 풀이 : [백준 10828 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-10828-%EC%8A%A4%ED%83%9D)
   - 백준 1158. 요세푸스
   - 프로그래머스. 다리를 지나는 트럭
   - 백준 9021. 괄호
