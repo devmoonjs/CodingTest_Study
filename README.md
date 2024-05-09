@@ -17,7 +17,7 @@
     >풀이 : [백준 9012 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-9012.-%EA%B4%84%ED%98%B8)
   - 백준 1966. 프린터 큐
   - 백준 9039. 단어 뒤집기
-    >풀이 : [백준 9033 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-9033.-%EB%8B%A8%EC%96%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)  
+    >풀이 : [백준 9093 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-9033.-%EB%8B%A8%EC%96%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)  
   - 프로그래머스. 주식가격
   - 프로그래머스. 프린터
   
