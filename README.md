@@ -21,6 +21,6 @@
   - 프로그래머스. 주식가격
   - 프로그래머스. 프린터
   - 백준 2085. 나무 자르기
-  >풀이 : [백준 2085 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2805.-%EB%82%98%EB%AC%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)  
+    > 풀이 : [백준 2085 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2805.-%EB%82%98%EB%AC%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)  
   
   
