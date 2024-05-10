@@ -20,7 +20,7 @@
     >풀이 : [백준 9093 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-9033.-%EB%8B%A8%EC%96%B4-%EB%92%A4%EC%A7%91%EA%B8%B0)  
   - 프로그래머스. 주식가격
   - 프로그래머스. 프린터
-  - - 백준 2085. 나무 자르기
+  - 백준 2085. 나무 자르기
   >풀이 : [백준 2085 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2805.-%EB%82%98%EB%AC%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)  
   
   
