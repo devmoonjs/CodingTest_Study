@@ -25,5 +25,9 @@
     > 풀이 : [백준 2085 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2805.-%EB%82%98%EB%AC%B4-%EC%9E%90%EB%A5%B4%EA%B8%B0)
   - 백준 10815. 숫자 카드
     > 풀이 : [백준 10815 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-10815.-%EC%88%AB%EC%9E%90-%EC%B9%B4%EB%93%9C)  
-  
+
+  ### 2주차
+- DFS & BFS
+  - 백준 1260. DFS와 BFS
+    > 풀이 : [백준 1260 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1205)
   
