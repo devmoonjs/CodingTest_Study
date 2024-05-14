@@ -30,4 +30,6 @@
 - DFS & BFS
   - 백준 1260. DFS와 BFS
     > 풀이 : [백준 1260 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1205)
+  - 백준 2667. 단지 번호 붙이기
+    > 풀이 : [백준 2667 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2667.-%EB%8B%A8%EC%A7%80-%EB%B2%88%ED%98%B8-%EB%B6%99%EC%9D%B4%EA%B8%B0)
   
