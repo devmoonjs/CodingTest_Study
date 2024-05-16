@@ -34,4 +34,6 @@
     > 풀이 : [백준 2667 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2667.-%EB%8B%A8%EC%A7%80-%EB%B2%88%ED%98%B8-%EB%B6%99%EC%9D%B4%EA%B8%B0)
   - 백준 2178. 미로 탐색
     > 풀이 : [백준 2178 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2178.-%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0)
+  - 백준 1697. 숨바꼭질
+    > 풀이 : [백준 2178 velog]([https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2178.-%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1697.-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88))
 
