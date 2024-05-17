@@ -36,4 +36,6 @@
     > 풀이 : [백준 2178 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2178.-%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0)
   - 백준 1697. 숨바꼭질
     > 풀이 : [백준 1697 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1697.-%EC%88%A8%EB%B0%94%EA%BC%AD%EC%A7%88)
+  - 백준 1012. 유기농배추
+    >  풀이 : [백준 1012 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1012.-%EC%9C%A0%EA%B8%B0%EB%86%8D-%EB%B0%B0%EC%B6%94)
 
