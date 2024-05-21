@@ -41,4 +41,6 @@
   - 그리디
     - 백준 11047. 동전
       >  풀이 : [백준 11047 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11047.-%EB%8F%99%EC%A0%84)
+    - 백준 11399. ATM
+      >  풀이 : [백준 11399 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11399.-ATM)
     
