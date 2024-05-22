@@ -43,4 +43,6 @@
       >  풀이 : [백준 11047 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11047.-%EB%8F%99%EC%A0%84)
     - 백준 11399. ATM
       >  풀이 : [백준 11399 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11399.-ATM)
+    - 백준 1931. 회의실 배정
+      >  풀이 : [백준 1931 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1931.-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95)
     
