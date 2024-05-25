@@ -45,4 +45,11 @@
       >  풀이 : [백준 11399 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11399.-ATM)
     - 백준 1931. 회의실 배정
       >  풀이 : [백준 1931 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1931.-%ED%9A%8C%EC%9D%98%EC%8B%A4-%EB%B0%B0%EC%A0%95)
+    - 백준 4796. 대회 or 인턴
+      >  풀이 : [백준 2875 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2875.-%EB%8C%80%ED%9A%8C-or-%EC%9D%B8%ED%84%B4)
+    - 백준 4796. 캠핑
+      >  풀이 : [백준 4796 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-4796.-%EC%BA%A0%ED%95%91)
+    - 백준 2217. 로프 
+      >  풀이 : [백준 2217 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2217.-%EB%A1%9C%ED%94%84)
+
     
