@@ -51,5 +51,6 @@
       >  풀이 : [백준 4796 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-4796.-%EC%BA%A0%ED%95%91)
     - 백준 2217. 로프 
       >  풀이 : [백준 2217 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2217.-%EB%A1%9C%ED%94%84)
-
+    - 백준 12026. BOJ 거리
+      >  풀이 : [백준 12026 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-12026.-BOJ-%EA%B1%B0%EB%A6%AC)
     
