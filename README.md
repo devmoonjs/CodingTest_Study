@@ -53,4 +53,6 @@
       >  풀이 : [백준 2217 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-2217.-%EB%A1%9C%ED%94%84)
     - 백준 12026. BOJ 거리
       >  풀이 : [백준 12026 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-12026.-BOJ-%EA%B1%B0%EB%A6%AC)
+    - 백준 1495. 기타리스트
+      >  풀이 : [백준 1495 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1495.-%EA%B8%B0%ED%83%80%EB%A6%AC%EC%8A%A4%ED%8A%B8)
     
