@@ -62,4 +62,6 @@
       > 풀이 : [백준 1890 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-1890.-%EC%A0%90%ED%94%84)
     - 백준 15486. 퇴사 2
       > 풀이 : [백준 15486 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-15486.-%ED%87%B4%EC%82%AC-2)
+    - 백준 15989. 1,2,3 더하기 4
+      > 풀이 : [백준 15989 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-15989.-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
     
