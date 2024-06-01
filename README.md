@@ -64,6 +64,6 @@
       > 풀이 : [백준 15486 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-15486.-%ED%87%B4%EC%82%AC-2)
     - 백준 15989. 1,2,3 더하기 4
       > 풀이 : [백준 15989 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-15989.-1-2-3-%EB%8D%94%ED%95%98%EA%B8%B0-4)
-    - 백준 11068. 크리보드
-      > 풀이 : [백준 11068 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11068.-%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C)
+    - 백준 11058. 크리보드
+      > 풀이 : [백준 11058 velog](https://velog.io/@moonjs1018/Java-%EB%B0%B1%EC%A4%80-11068.-%ED%81%AC%EB%A6%AC%EB%B3%B4%EB%93%9C)
     
